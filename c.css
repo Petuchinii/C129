@@ -1,0 +1,9 @@
+body {
+    background-color:aquamarine;
+    text-align: center;
+}
+canvas {
+    background-color: white;
+    width: 400px;
+    height: 400px;
+}
